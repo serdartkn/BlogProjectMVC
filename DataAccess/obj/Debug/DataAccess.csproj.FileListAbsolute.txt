@@ -1,0 +1,15 @@
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\Entity.dll
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\Entity.pdb
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\Entity.dll.config
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.pdb
