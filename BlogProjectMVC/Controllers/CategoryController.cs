@@ -16,5 +16,15 @@ namespace BlogProjectMVC.Controllers
             var categoryValues = categoryManager.GetAll();
             return View(categoryValues);
         }
+
+        public PartialViewResult BlogDetailsCategoryList() 
+        {
+            return PartialView();
+        }
+
+        public ActionResult BlogByCategory() 
+        {
+            return View();
+        }
     }
 }

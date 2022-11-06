@@ -10,9 +10,16 @@
         <div class="row blog-entries element-animate">
             <div class="col-md-12 col-lg-8 main-content">
                 @Html.Action("BlogReadAll", "Blog")
-                <h2>BlogDetails</h2>
+                @Html.Action("CommentList", "Comment")
+            </div>
+            <div class="col-md-12 col-lg-4 sidebar">
+                @Html.Action("AboutAuthor", "Author")
+                @Html.Action("AuthorPopularPost", "Author")
+                @Html.Action("BlogDetailsCategoryList", "Category")
             </div>
         </div>
     </div>
 </section>
-
+@*@Html.Action("OtherFeaturedPosts", "Blog")*@
+@Html.Action("AddMail", "SubscribeMail")
+@Html.Action("Footer", "About")  

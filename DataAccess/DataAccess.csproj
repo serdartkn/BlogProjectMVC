@@ -54,10 +54,18 @@
     <Compile Include="Concrete\EntityFramework\EfRepository.cs" />
     <Compile Include="Abstract\IEntityRepository.cs" />
     <Compile Include="Concrete\EntityFramework\EfContext.cs" />
+    <Compile Include="Migrations\202210252131241_migration1.cs" />
+    <Compile Include="Migrations\202210252131241_migration1.designer.cs">
+      <DependentUpon>202210252131241_migration1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202210252131241_migration1.resx">
+      <DependentUpon>202210252131241_migration1.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />

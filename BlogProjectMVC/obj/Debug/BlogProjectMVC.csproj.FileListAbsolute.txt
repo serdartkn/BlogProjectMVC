@@ -59,6 +59,8 @@ C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\EntityFramework.S
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\Newtonsoft.Json.dll
+C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\PagedList.dll
+C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\PagedList.Mvc.dll
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\System.Web.Helpers.dll
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\System.Web.Mvc.dll
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\System.Web.Optimization.dll
@@ -75,6 +77,8 @@ C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\Entity.pdb
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\Entity.dll.config
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\EntityFramework.xml
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\PagedList.xml
+C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\PagedList.Mvc.xml
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\System.Web.Helpers.xml
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\System.Web.Mvc.xml
 C:\Users\Serdar\source\newrepos\BlogProject\BlogProjectMVC\bin\System.Web.Optimization.xml

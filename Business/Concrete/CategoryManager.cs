@@ -13,7 +13,7 @@ namespace Business.Concrete
         EfRepository<Category> repoCategory = new EfRepository<Category>();
         public List<Category> GetAll() 
         {
-            return repoCategory.ListAll();
+           return repoCategory.ListAll();
         }
     }
 }

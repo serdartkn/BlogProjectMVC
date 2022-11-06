@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Runtime.Remoting.Contexts;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,19 +32,19 @@ namespace DataAccess.Concrete
             return c.SaveChanges();
         }
 
-        public T GetById(int id)
-        {
-            return _object.Find(id);
-        }
-
-        public List<T> ListAll()
-        {
-            return _object.ToList();
-        }
-
         public int Update(T entity)
         {
             return c.SaveChanges();
+        }
+
+        public List<T> ListAll(Expression<Func<T, bool>> filter = null)
+        {
+            return filter == null ? _object.ToList() : _object.Where(filter).ToList();
+        }
+
+        public T ListOne(Expression<Func<T, bool>> filter)
+        {
+            return _object.SingleOrDefault(filter);
         }
     }
 }

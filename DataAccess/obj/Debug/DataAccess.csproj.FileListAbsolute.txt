@@ -9,6 +9,8 @@ C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\Entity.dll.conf
 C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\EntityFramework.xml
 C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.Migrations.migration1.resources
+C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
 C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\Serdar\source\newrepos\BlogProject\DataAccess\obj\Debug\DataAccess.dll
